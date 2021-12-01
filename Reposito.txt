@@ -32,3 +32,5 @@ Envia o codigo para o repositorio online
 
 9 - O que e um clone?
 
+É como uma branch de um repositorio online em um repositorio local. quando se deseja trabalhar em um repositorio hospedado no github, clona-se esse repositorio para o seu computador, trabalha se nele e então é pedida a permissão para atualizar as alterações online
+
